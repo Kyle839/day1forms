@@ -1,0 +1,23 @@
+html{
+    box-sizing: border-box;
+}
+body{ text-align: center;
+    margin: 0;
+    padding: 0;
+    font-family:sans-serif;
+    background-color: blue;
+    Background-size: cover; 
+}
+form{
+    display: inline-block
+}
+.login-box{
+    width: 280px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color:white
+
+
+}
